@@ -1,3 +1,15 @@
+* ---------------------------------------
+* BRIEF INTRODUCTION TO ABAP SYNTAX
+* 	ABAP is the primary language fro SAP
+* 	The basis of the entire system
+*   Except the kernel
+*	The source code is available to you inside the system
+* 	ABAP is backward compatible
+* 	Hybrid language
+*	Development on the server, in a central server
+*	Cross-platform language(because it is a server stored language, fullstack?)
+* ---------------------------------------
+
 * This is a full line comment in ABAP
 
 * Close statements with dots
